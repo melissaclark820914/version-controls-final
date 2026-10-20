@@ -1,4 +1,8 @@
+<div align="center">
+
 # :herb: The Woods :herb:
+
+</div>
 
 Once you enter the woods, you notice the smell of fresh pine. As you venture further, you also notice a sound. It seems to be the sound of running water. Maybe a stream? You suddenly realize how thirsty you are. 
 
