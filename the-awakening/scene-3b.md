@@ -4,9 +4,9 @@ You reach for the phone, and hope with all that you have, that someone has been 
 
 <br> 
 
-- [You then leave through the front door.](./ending-1.md)
+- :door: [You then leave through the front door.](./ending-1.md)
 
 <br>
 
-- [You decide to sit on the floor in the main room to compose your thoughts.](./ending-2.md)
+- :house: [You decide to sit on the floor in the main room to compose your thoughts.](./ending-2.md)
 
