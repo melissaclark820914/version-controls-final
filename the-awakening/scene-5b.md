@@ -4,7 +4,7 @@
 
 </div>
 
-As you continue down the peaceful path, you begin to hear something rustling in the leaves. At first, you must think that is a squirrel, but this sounds heavier and louder. You then begin to wonder if this could be a bear or even some mountain man.  
+As you continue down the peaceful path, you begin to hear something rustling in the leaves. At first, you must think that is a squirrel, but this sounds heavier and louder. You then begin to wonder if this could be a bear or even some mountain man. Then out of nowhere, you step into a massive puddle.
 
   
 <br>
